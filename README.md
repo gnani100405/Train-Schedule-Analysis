@@ -1,5 +1,5 @@
 # Train-Schedule-Analysis
-comprehensive Python-based Train Schedule Analysis project that performs data cleaning, pre-processing, exploratory data analysis (EDA), visualization, pivot table analysis, and an interactive route enquiry system using Pandas, Matplotlib, and Seaborn.
+Python project for analyzing train schedule data with data cleaning, visualization, advanced analytics, and an interactive train route enquiry system.
 
 # 🚆 Train Schedule Analysis and Interactive Route Enquiry System
 
